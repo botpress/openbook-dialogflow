@@ -1,5 +1,5 @@
 {
-  "name": "dialogflowOpenBookFulfillment",
+  "name": "dialogflow-openbook",
   "description": "for using OpenBook bot as Dialogflow webhook",
   "version": "0.1.0",
   "private": true,
